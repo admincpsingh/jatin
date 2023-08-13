@@ -1,0 +1,8 @@
+how to remove url
+
+git remove rm origin
+
+add
+git remote add origin https://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@github.com/admincpsingh/jatin.git
+for Checkremote url
+ git remote -v 
