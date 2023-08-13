@@ -1,0 +1,11 @@
+new file 
+
+git init 
+git add 
+git commit 
+git status
+git log
+git log --oneline
+git log --oneline --pretty
+git branch
+git checkout -n newnranchname
